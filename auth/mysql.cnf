@@ -1,0 +1,5 @@
+[client]
+ database = 'newsDB'
+    user = 'PM_APPS'
+ password = 'P$M1pps0'
+ default-character-set = 'utf8'
